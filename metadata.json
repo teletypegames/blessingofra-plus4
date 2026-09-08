@@ -1,0 +1,10 @@
+{
+  "name": "blessingofra_plus4",
+  "title": "Blessing of Ra",
+  "author": "Teletype Games",
+  "desc": "Two-player pyramid escape for the Commodore Plus/4: a worker sealed in the great pyramid runs for the exit while Ra bends the maze walls around him. Scarabs and scorpions - and their flying venom stings - hunt him through eight levels, from a 4x4 maze up to 11x11.",
+  "site": "https://git.teletypegames.org/games/blessingofra_plus4",
+  "repo": "https://git.teletypegames.org/games/blessingofra_plus4",
+  "license": "MIT",
+  "version": "1.0.0"
+}
